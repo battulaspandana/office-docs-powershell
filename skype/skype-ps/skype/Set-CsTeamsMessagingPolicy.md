@@ -37,7 +37,8 @@ Set-CsTeamsMessagingPolicy [-Tenant <Guid>] [-Description <String>] [-AllowUrlPr
  [-AllowUserChat <Boolean>] [-AllowUserDeleteChat <Boolean>] [-AllowGiphy <Boolean>] [-GiphyRatingType <String>] [-AllowMemes <Boolean>]
  [-AllowStickers <Boolean>] [-AllowUserTranslation <Boolean>] [-AllowImmersiveReader <Boolean>]
  [-AllowRemoveUser <Boolean>] [-AllowPriorityMessages <Boolean>] [-AllowSmartReply <Boolean>] [-ReadReceiptsEnabledType <String>]
- [-AudioMessageEnabledType <AudioMessageEnabledTypeEnum>] [-ChannelsInChatListEnabledType <ChannelsInChatListEnabledTypeEnum>] [-AllowSmartCompose] <Boolean>] [-CreateCustomEmojis <Boolean>] [-DeleteCustomEmojis <Boolean>] [-DesignerForBackgroundsAndImages <DesignerForBackgroundsAndImagesTypeEnum>] [-Instance <PSObject>] [-Force] [-WhatIf] [-Confirm] [<CommonParameters>]
+ [-AudioMessageEnabledType <AudioMessageEnabledTypeEnum>] [-ChannelsInChatListEnabledType <ChannelsInChatListEnabledTypeEnum>] [-AllowSmartCompose] <Boolean>] [-CreateCustomEmojis <Boolean>] [-DeleteCustomEmojis <Boolean>] [-DesignerForBackgroundsAndImages <DesignerForBackgroundsAndImagesTypeEnum>]
+ [-Instance <PSObject>] [-Force] [-WhatIf] [-Confirm] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
